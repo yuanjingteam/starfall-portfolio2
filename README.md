@@ -4,8 +4,8 @@
 
 ## 在线预览
 
-- Demo 地址：<你的部署链接>
-- 仓库地址：<GitHub / Gitee 链接>
+- Demo 地址：https://yuanjingteam.github.io/ai-chat-navigator
+- 仓库地址：https://github.com/yuanjingteam/ai-chat-navigator.git
 
 ## 功能特性
 

@@ -88,8 +88,8 @@ const customPortfolioData: PortfolioPageProps = {
     },
   ],
   stats: [
-    { value: "10K+", label: "活跃用户" },
-    { value: "4.8", label: "星级评分" },
+    { value: "100+", label: "活跃用户" },
+    { value: "5.0", label: "星级评分" },
     { value: "100%", label: "免费使用" },
   ],
   showAnimatedBackground: true,
